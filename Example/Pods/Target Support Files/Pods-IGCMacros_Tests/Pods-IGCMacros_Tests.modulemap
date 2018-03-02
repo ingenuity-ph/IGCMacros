@@ -1,0 +1,6 @@
+framework module Pods_IGCMacros_Tests {
+  umbrella header "Pods-IGCMacros_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}

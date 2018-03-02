@@ -1,0 +1,6 @@
+framework module IGCMacros {
+  umbrella header "IGCMacros-umbrella.h"
+
+  export *
+  module * { export * }
+}
