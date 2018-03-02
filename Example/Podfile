@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'IGCMacros_Example' do
+  pod 'IGCMacros', :path => '../'
+
+  target 'IGCMacros_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
